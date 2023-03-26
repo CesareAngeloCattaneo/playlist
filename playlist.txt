@@ -6,3 +6,5 @@ SONG1 - Geoge Jones
 SONG2 -George Jones
 SONG3 - George Harris
 SONG4 - George Harris
+SON9 - Van Morrison
+SON10 - Van Morrison
