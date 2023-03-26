@@ -2,3 +2,5 @@ SONG - ARTIST
 ==============
 SOS - ABBA
 ONE OF US -ABBA
+SONG1 - Geoge Jones
+SONG2 -George Jones
